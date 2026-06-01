@@ -51,6 +51,14 @@ Set up GitHub. Create your roadmap repo (commit deliverables here for 120 days).
 - Merge: preserves history exactly as it happened. Creates a merge commit. Graph shows diamond shape on divergence.
 - Rebase: rewrites history to look linear. Replays feature commits onto main's tip with new hashes. Graph shows straight line.
 - **Rule: rebase before pushing, merge after.** Never rebase commits already pushed to a shared branch.
+- 
+cmds for pushing code
+ls /mnt/k/appsec-vault/01-Stage0-Foundations
+ cp "/mnt/k/appsec-vault/01-Stage0-Foundations/
+Day-002-Git-and-GitHub-Workflow.md" ~/git-cheatsheet.md
+git add .
+git commit
+git push
 
 ## 🔗 Related
 
