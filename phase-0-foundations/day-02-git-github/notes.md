@@ -55,7 +55,7 @@ Set up GitHub. Create your roadmap repo (commit deliverables here for 120 days).
 cmds for pushing code
 ls /mnt/k/appsec-vault/01-Stage0-Foundations
  cp "/mnt/k/appsec-vault/01-Stage0-Foundations/
-Day-002-Git-and-GitHub-Workflow.md" ~/git-cheatsheet.md
+Day-002-Git-and-GitHub-Workflow.md" ./git-cheatsheet.md
 git add .
 git commit
 git push
